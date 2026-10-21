@@ -55,13 +55,16 @@ Calculations:
 
 <img width="344" height="270" alt="Screenshot 2026-10-06 1403001" src="https://github.com/user-attachments/assets/ba0623ea-96f8-42b1-9765-13257b4114ce" />
 
-
 Tabulation for Load Test:
+
 <img width="1292" height="751" alt="Screenshot 2026-10-06 140019" src="https://github.com/user-attachments/assets/c3ea4e53-18a3-4be7-8be3-dcbad733be2d" />
+
 Model graph:
 
 <img width="888" height="368" alt="Screenshot 2026-10-16 215231" src="https://github.com/user-attachments/assets/56aeb07f-dff0-4ca4-8f76-3a142e283748" />
+
 Calculations:
+
 
 <img width="384" height="325" alt="Screenshot 2026-10-06 1400391" src="https://github.com/user-attachments/assets/3a0cf6ea-3bee-49b6-a9fd-9d5a2ea59550" />
 
